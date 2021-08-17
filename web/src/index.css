@@ -1,0 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Vollkorn:wght@400;500;600&display=swap');
+
+* {
+  font-family: 'Vollkorn', serif;
+  user-select: none;
+}
+
+body {
+  margin: 0;
+}
